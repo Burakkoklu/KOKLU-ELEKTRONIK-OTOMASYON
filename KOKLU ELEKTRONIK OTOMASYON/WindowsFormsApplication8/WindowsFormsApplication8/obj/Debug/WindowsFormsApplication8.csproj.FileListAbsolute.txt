@@ -1,0 +1,62 @@
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form8.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\elektronik.accdb
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Microsoft.SqlServer.Types.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\RdlCompile.cache
+c:\users\burak\documents\visual studio 2015\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\elektronik.accdb
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe.config
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form1.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form2.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form3.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form4.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form5.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form6.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form7.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Form8.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.Properties.Resources.resources
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\RdlCompile.cache
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\RdlCompile.compiled
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.exe
+C:\Users\BURAK\Documents\Visual Studio 2015\Projects\KÖKLÜ ELEKTRONİK\WindowsFormsApplication8\WindowsFormsApplication8\obj\Debug\WindowsFormsApplication8.pdb
